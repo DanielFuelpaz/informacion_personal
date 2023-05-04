@@ -5,3 +5,4 @@ Ambato
 Manejo y Configuracion de Software
 Cualquier cosa
 Metodologias agiles
+Computacion Visual
