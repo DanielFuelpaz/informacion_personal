@@ -7,3 +7,4 @@ Cualquier cosa
 Metodologias agiles
 Computacion Visual
 No se debe modificar desde Github.
+Que no se debe realizar
