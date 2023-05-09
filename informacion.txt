@@ -6,3 +6,4 @@ Manejo y Configuracion de Software
 Cualquier cosa
 Metodologias agiles
 Computacion Visual
+No se debe modificar desde Github.
